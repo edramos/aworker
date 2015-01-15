@@ -74,7 +74,7 @@
         <!-- Navigation BEGIN -->
         <div class="col-md-10 pull-right">
           <ul class="header-navigation">
-            <li class="current"><a href="#promo-block">Home</a></li>
+            <li class="current"><a href="#promo-block">Home T</a></li>
             <li><a href="#about">Nosotros</a></li>
             <li><a href="#services">Servicios</a></li>
             <li><a href="#team">Equipo</a></li>
