@@ -109,8 +109,8 @@
               data-endspeed="300">
               <div class="promo-like"><i class="fa fa-thumbs-up"></i></div>
               <div class="promo-like-text">
-                <h2>Vamos a hacerlo!</h2>
-                <p>Somos el puente para cruzar el "derecho de piso"<br> entre los centros educativos superiores y un trabajo <a href="javascript:void(0);">de verdad</a></p>
+                <h2>¡Vamos a hacerlo!</h2>
+                <p>Somos el puente para cruzar el "derecho de piso"<br> entre los centros de educación superior y un trabajo <a href="javascript:void(0);">de verdad</a></p>
               </div>
             </div>
             <div class="tp-caption large_bold_white fade"
@@ -123,7 +123,7 @@
               data-endspeed="500"
               data-endeasing="Power1.easeIn"
               data-captionhidden="off"
-              style="z-index: 6">ATRABAJAR <span>Por Fin</span> Ha Llegado
+              style="z-index: 6">ATRABAJAR <span>Por fin</span> Ha llegado
             </div>
           </li>
           <li data-transition="fadefromright" data-slotamount="5" data-masterspeed="700" data-delay="9400" class="slider-item-2">
@@ -155,7 +155,7 @@
               data-endspeed="500"
               data-endeasing="Power1.easeIn"
               data-captionhidden="off"
-              style="z-index: 6">Graduacion -&gt;<span> ATrabajar -&gt;</span> Empresas
+              style="z-index: 6">Graduación -&gt;<span> ATrabajar -&gt;</span> Empresas
             </div>
           </li>
           <li data-transition="fade" data-slotamount="5" data-masterspeed="700" data-delay="9400" class="slider-item-3">
@@ -194,7 +194,7 @@
               data-easing="Power4.easeOut"
               data-endspeed="600"
               data-endeasing="Power0.easeIn"
-              style="z-index: 3">Un profesional explotado <br/>quizas sea un lider explotador.
+              style="z-index: 3">Un profesional explotado <br/>quizás sea un líder explotador.
             </div>
             <div class="tp-caption medium_text_shadow customin customout tp-resizeme"
               data-x="center" data-hoffset="0"
@@ -218,12 +218,12 @@
   <div class="about-block content content-center" id="about">
     <div class="container">
       <h2><strong>aTrabajar</strong> Inspira</h2>
-      <h4>Capacitate antes que el proyecto empieze</h4>
+      <h4>Capacítate antes de que el proyecto empiece</h4>
       <div class="ab-trio">
         <img src="assets/frontend/onepage/img/trio.png" alt="" class="img-responsive">
         <div class="ab-cirlce ab-cirle-blue">
           <i class="fa fa-angellist"></i>
-          <strong>Graduacion</strong>
+          <strong>Graduación</strong>
         </div>
         <div class="ab-cirlce ab-cirle-red">
           <i class="fa fa-bus"></i>
@@ -294,7 +294,7 @@
         </div>
         <div class="col-md-4 item">
           <img src="assets/frontend/onepage/img/people/img7-large.jpg" alt="Elena Taylor" class="img-responsive">
-          <h3>Ricardo Lopez</h3>
+          <h3>Ricardo López</h3>
           <em>IT</em>
           <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
           <div class="tb-socio">
@@ -306,7 +306,7 @@
         <div class="col-md-4 item">
           <img src="assets/frontend/onepage/img/people/img8-large.jpg" alt="Cris Nilson" class="img-responsive">
           <h3>Juan Pablo Rivera</h3>
-          <em>Investigacion</em>
+          <em>Investigación</em>
           <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
           <div class="tb-socio">
             <a href="javascript:void(0);" class="fa fa-facebook"></a>
@@ -450,7 +450,7 @@
   <!-- Choose us block BEGIN -->
   <div class="choose-us-block content text-center margin-bottom-40" id="benefits">
     <div class="container">
-      <h2>Por que <strong>elegirnos</strong></h2>
+      <h2>Por qué <strong>elegirnos</strong></h2>
       <h4>Lorem ipsum dolor sit amet, <a href="javascript:void(0);">consectetuer adipiscing</a> elit, sed diam nonummy<br> nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</h4>
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12 text-left">
@@ -547,10 +547,10 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10">
-          <h2>Prueba nuestra BETA! <em>Mas Funcionalidades &amp; Poderosas Herramientas de Admin</em></h2>
+          <h2>¡Prueba nuestra BETA! <em>Más funcionalidades &amp; Poderosas herramientas de gestión</em></h2>
         </div>
         <div class="col-md-2 text-right">
-          <a href="#" target="_blank" class="btn btn-primary">Ingresar Aqui</a>
+          <a href="#" target="_blank" class="btn btn-primary">Ingresa aquí</a>
         </div>
       </div>
     </div>
@@ -604,7 +604,7 @@
             <div class="pricing-content">
               <div class="pi-price">
                 <strong>%<em>6</em></strong>
-                <p>Por Transaccion</p>
+                <p>Por transacción</p>
               </div>
               <ul class="list-unstyled">
                 <li><i class="fa fa-circle"></i> Lorem ipsum dolor</li>
@@ -628,7 +628,7 @@
             <div class="pricing-content">
               <div class="pi-price">
                 <strong>%<em>4</em></strong>
-                <p>Por Transaccion</p>
+                <p>Por transacción</p>
               </div>
               <ul class="list-unstyled">
                 <li><i class="fa fa-circle"></i> Lorem ipsum dolor</li>
@@ -652,7 +652,7 @@
             <div class="pricing-content">
               <div class="pi-price">
                 <strong>%<em>2</em></strong>
-                <p>Por Transaccion</p>
+                <p>Por transacción</p>
               </div>
               <ul class="list-unstyled">
                 <li><i class="fa fa-circle"></i> Lorem ipsum dolor</li>
@@ -676,7 +676,7 @@
             <div class="pricing-content">
               <div class="pi-price">
                 <strong>%<em>1</em></strong>
-                <p>Por Transaccion</p>
+                <p>Por transacción</p>
               </div>
               <ul class="list-unstyled">
                 <li><i class="fa fa-circle"></i> Lorem ipsum dolor</li>
