@@ -547,7 +547,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10">
-          <h2>¡Prueba nuestra BETA! <em>Más funcionalidades &amp; Poderosas herramientas de gestión</em></h2>
+          <h2>¡Prueba nuestra BETA! <em>Más funcionalidades y poderosas herramientas de gestión</em></h2>
         </div>
         <div class="col-md-2 text-right">
           <a href="#" target="_blank" class="btn btn-primary">Ingresa aquí</a>
