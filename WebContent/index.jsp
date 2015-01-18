@@ -255,7 +255,7 @@
   <!-- Message block BEGIN -->
   <div class="message-block content content-center valign-center" id="message-block">
     <div class="valign-center-elem">
-      <h2>The details are not the details <strong>They make the design</strong></h2>
+      <h2>No es solo conseguir un trabajo, <strong>es sentirte orgulloso de eso</strong></h2>
       <em>aTrabajar.pe</em>
     </div>
   </div>
@@ -264,13 +264,14 @@
   <div class="team-block content content-center margin-bottom-40" id="team">
     <div class="container">
       <h2>El <strong>equipo</strong></h2>
-      <h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h4>
+      <h4>Ninguno de nosotros vale mas que todos juntos</h4>
       <div class="row">
         <div class="col-md-4 item">
           <img src="assets/frontend/onepage/img/people/img6-large.jpg" alt="Marcus Doe" class="img-responsive">
           <h3>Eduardo Ramos</h3>
           <em>Founder</em>
-          <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
+          <p><b>Emprendedor y "hacedor de problemas".</b><br>
+          Me gusta crear software simple, para ayudar a las personas a ganar satisfacción, dinero y tranquilidad.</p>
           <div class="tb-socio">
             <a href="javascript:void(0);" class="fa fa-facebook"></a>
             <a href="javascript:void(0);" class="fa fa-twitter"></a>
