@@ -13,9 +13,16 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="A place for art and engineering" name="description">
-  <meta content="Peru Lima Development Java 3D" name="keywords">
+  <meta content="Capacítate antes de que el proyecto empiece" name="description">
+  <meta content="atrabajar ATRABAJAR atrabajar.pe Trabajo Capacitacion Peru Lima Desarrollo 3D" name="keywords">
   <meta content="Simularte" name="author">
+  
+  <meta property="og:site_name" content="ATRABAJAR.PE">
+  <meta property="og:title" content="ATRABAJAR.PE">
+  <meta property="og:description" content="Capacítate antes de que el proyecto empiece">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="#">
+  <meta property="og:url" content="ATRABAJAR.PE">
 
   <link rel="shortcut icon" href="favicon.ico">
   <!-- Fonts START -->
@@ -37,29 +44,8 @@
   <link href="assets/frontend/onepage/css/custom.css" rel="stylesheet">
   <!-- Theme styles END -->
 </head>
-<!--DOC: menu-always-on-top class to the body element to set menu on top -->
+
 <body class="menu-always-on-top">
-  <!-- BEGIN STYLE CUSTOMIZER -->
-  <!-- <div class="color-panel">
-    <div class="color-mode-icons icon-color"></div>
-    <div class="color-mode-icons icon-color-close"></div>
-    <div class="color-mode">
-      <p>THEME COLOR</p>
-      <ul class="inline">
-        <li class="color-red current color-default" data-style="red"></li>
-        <li class="color-blue" data-style="blue"></li>
-        <li class="color-green" data-style="green"></li>
-        <li class="color-orange" data-style="orange"></li>
-        <li class="color-gray" data-style="gray"></li>
-        <li class="color-turquoise" data-style="turquoise"></li>
-      </ul>
-      <p>MENU POSITION</p>
-      <select class="form-control menu-pos">
-        <option value="bottom">Bottom</option>
-        <option value="top">Top</option>
-      </select>
-    </div>
-  </div> -->
   <!-- END BEGIN STYLE CUSTOMIZER -->
   <!-- Header BEGIN -->
   <div class="header header-mobi-ext">
@@ -78,7 +64,6 @@
             <li><a href="#about">Nosotros</a></li>
             <li><a href="#services">Servicios</a></li>
             <li><a href="#team">Equipo</a></li>
-            <!--<li><a href="#portfolio">Portafolio</a></li>-->
             <li><a href="#benefits">Beneficios</a></li>
             <li><a href="#prices">Precios</a></li>
             <li><a href="#contact">Contacto</a></li>
@@ -159,7 +144,7 @@
             </div>
           </li>
           <li data-transition="fade" data-slotamount="5" data-masterspeed="700" data-delay="9400" class="slider-item-3">
-            <img src="http://themepunch.com/revolution/wp-content/uploads/2014/05/video_woman_cover3.jpg"  alt="video_woman_cover3"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+            <img src="assets/frontend/onepage/img/silder/happy.jpg"  alt="ATRABAJAR.PE"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
             
             <div class="tp-caption tp-fade fadeout fullscreenvideo"
               data-x="0"
@@ -206,7 +191,7 @@
               data-easing="Power4.easeOut"
               data-endspeed="600"
               data-endeasing="Power0.easeIn"
-              style="z-index: 4">aTrabajar.pe
+              style="z-index: 4">ATRABAJAR.PE
             </div>
           </li>
         </ul>
@@ -241,27 +226,27 @@
   <div class="services-block content content-center" id="services">
     <div class="container">
       <h2>Nuestros <strong>Diferenciadores</strong></h2>
-      <h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h4>
+      <h4>Somos un Ecosistema Laboral</h4>
       <div class="row">
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-heart"></i>
-          <h3>Fantastic Support</h3>
-          <p>Lorem ipsum et dolor amet<br> consectetuer diam</p>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-12 item">
-          <i class="fa fa-mobile"></i>
-          <h3>Mobile Solutions</h3>
-          <p>Lorem ipsum et dolor amet<br> consectetuer diam</p>
+          <h3>Encuentra y Decide</h3>
+          <p>Buscador inteligente de Profesionales, <br>Mentores y Empresas</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-signal"></i>
-          <h3>Market Analysis</h3>
-          <p>Lorem ipsum et dolor amet<br> consectetuer diam</p>
+          <h3>Optimiza tu tiempo</h3>
+          <p>Gestión de la Capacitación y Desarrollo<br> online</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 item">
-          <i class="fa fa-camera"></i>
-          <h3>Photography</h3>
-          <p>Lorem ipsum et dolor amet<br> consectetuer diam</p>
+          <i class="fa fa-rocket"></i>
+          <h3>Conocer es Poder</h3>
+          <p>Asesor jurídico virtual <br> y simulador tributario</p>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12 item">
+          <i class="fa fa-tablet"></i>
+          <h3>Compartir haciendo</h3>
+          <p>Somos una <b>SaaS</b> laboral. <br> Redes, blogs en tu casa o móvil</p>
         </div>
       </div>
     </div>
@@ -318,135 +303,7 @@
     </div>
   </div>
   <!-- Team block END -->
-  <!-- Portfolio block BEGIN -->
-  <!-- <div class="portfolio-block content content-center" id="portfolio">
-    <div class="container">
-      <h2 class="margin-bottom-50">Latest <strong>works</strong></h2>
-    </div>
-    <div class="row">
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/2.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/2.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/6.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/6.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/8.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/8.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/3.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/3.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/5.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/5.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/4.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/4.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/1.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/1.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/10.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/10.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/9.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/9.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/7.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/7.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/2.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/2.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-      <div class="item col-md-2 col-sm-6 col-xs-12">
-        <img src="assets/frontend/onepage/img/portfolio/8.jpg" alt="NAME" class="img-responsive">
-        <a href="assets/frontend/onepage/img/portfolio/8.jpg" class="zoom valign-center">
-          <div class="valign-center-elem">
-            <strong>London City Project</strong>
-            <em>Property</em>
-            <b>Details</b>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div> -->
-  <!-- Portfolio block END -->
+  
   <!-- Choose us block BEGIN -->
   <div class="choose-us-block content text-center margin-bottom-40" id="benefits">
     <div class="container">
@@ -556,39 +413,7 @@
     </div>
   </div>
   <!-- Checkout block END -->
-  <!-- Facts block BEGIN -->
-  <!-- <div class="facts-block content content-center" id="facts-block">
-    <h2>Some facts about us</h2>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3 col-sm-3 col-xs-6">
-          <div class="item">
-            <strong>39</strong>
-            Projects Completed
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-6">
-          <div class="item">
-            <strong>14</strong>
-            Team Members
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-6">
-          <div class="item">
-            <strong>29k+</strong>
-            Products Sold
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-6">
-          <div class="item">
-            <strong>500</strong>
-            Weekly Sales
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <!-- Facts block END -->
+  
   <!-- Prices block BEGIN -->
   <div class="prices-block content content-center" id="prices">
     <div class="container">
@@ -694,46 +519,7 @@
     </div>
   </div>
   <!-- Prices block END -->
-  <!-- Testimonials block BEGIN -->
-  <!-- <div class="testimonials-block content content-center margin-bottom-65">
-    <div class="container">
-      <h2>Customer <strong>testimonials</strong></h2>
-      <h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h4>
-      <div class="carousel slide" data-ride="carousel" id="testimonials-block">
-        Wrapper for slides
-        <div class="carousel-inner">
-          Carousel items
-          <div class="active item">
-            <blockquote>
-              <p>This is the most awesome, full featured, easy, costomizeble theme. It's extremely responsive and very helpful to all suggestions.</p>
-            </blockquote>
-            <span class="testimonials-name">Mark Doe</span>
-          </div>
-          Carousel items
-          <div class="item">
-            <blockquote>
-              <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse.</p>
-            </blockquote>
-            <span class="testimonials-name">Joe Smith</span>
-          </div>
-          Carousel items
-          <div class="item">
-            <blockquote>
-              <p>Williamsburg carles vegan helvetica. Cosby sweater eu banh mi, qui irure terry richardson ex squid Aliquip placeat salvia cillum iphone.</p>
-            </blockquote>
-            <span class="testimonials-name">Linda Adams</span>
-          </div>
-        </div>
-        Indicators
-        <ol class="carousel-indicators">
-          <li data-target="#testimonials-block" data-slide-to="0" class="active"></li>
-          <li data-target="#testimonials-block" data-slide-to="1"></li>
-          <li data-target="#testimonials-block" data-slide-to="2"></li>
-        </ol>
-      </div>
-    </div>
-  </div> -->
-  <!-- Testimonials block END -->
+  
   <!-- Partners block BEGIN -->
   <div class="partners-block">
     <div class="container">
