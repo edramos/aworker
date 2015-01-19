@@ -309,7 +309,7 @@
   <div class="choose-us-block content text-center margin-bottom-40" id="benefits">
     <div class="container">
       <h2>Por qué <strong>elegirnos</strong></h2>
-      <h4>Lorem ipsum dolor sit amet, <a href="javascript:void(0);">consectetuer adipiscing</a> elit, sed diam nonummy<br> nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</h4>
+      <h4>Somos el puente, <a href="javascript:void(0);">que unirá</a> a los recién egresados o profesionales juniors <br> con un trabajo profesional para desterrar el derecho de piso.</h4>
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12 text-left">
           <img src="assets/frontend/onepage/img/choose-us.png" alt="Why to choose us" class="img-responsive">
@@ -319,78 +319,79 @@
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">Lorem ipsum dolor sit amet</a>
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">Encuentra y Decide</a>
                 </h5>
               </div>
               <div id="accordion1_1" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>Registrate gratis como un Profesional, Mentor o Empresario, luego te sugeriremos las mejores opciones segun lo que buscas, y asi podras decidir mejor donde y con quien capacitarte para entrar a trabajar. Nosotros te apoyararemos en todo este proceso.</p>
+                  <p>Somos un ecosistema laboral al hacer trabajar en equipo a los Profesionales, Mentores y Empresarios para mejora de todos, con un sistema que se autoalimenta y aprende de nuestras interacciones y necesidades.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_2">Consectetur adipisicing elit</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_2">Optimiza tu tiempo</a>
                 </h5>
               </div>
               <div id="accordion1_2" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>Podras llevar todo el proceso en nuestro portal, de una manera simple y mas productiva podras ver el progreso de tus proyectos, revisar tus estadisticas o las invitaciones a capacitacion para trabajo, subir archivos, comentar, etc.</p>
+                  <p>Nuestro sistema tiene como meta que hagas mas en menos tiempo.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_3">Augue assum anteposuerit dolore</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_3">Conocer es Poder</a>
                 </h5>
               </div>
               <div id="accordion1_3" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>Alguna vez te preguntaste cuanto tributarias a fin de año, o cuales son los beneficios que tienes al entrar a un trabajo formal. Tener las reglas bien claras en el ambito economico y legal es tan importante como en tu especalidad.</p>
+                  <p>Tu mismo podras simular cuanto tributar segun tu sueldo y sabras con nuesteo asesor legal virtual cuales son tus deberes/derecho de ley. El conocmiento nos benefica a todos los Empresarios, Mentores y Profesioanles.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_4">Sollemnes in futurum</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_4">Compartir haciendo</a>
                 </h5>
               </div>
               <div id="accordion1_4" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>Las buenas y malas experiencias laborales de los demas podran ser compartidas en nuestra sistema y cada uno podra poner su granito de arena para crecer juntos.</p>
+                  <p>Tu decides que compartir y con quienes, las posibilidades son infinitas en nuestra comunidad libre.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_5">Nostrud Tempor veniam</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_5">Capacitacion Online</a>
                 </h5>
               </div>
               <div id="accordion1_5" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>Mucho de lo que aprendemos no lo aprendemos necesariamente en una reunion fisica, con nostros tendras la posibilidad de capacitarte online con los mentores, y los empresarios podran llevar un control sobre como va la capacitacion.</p>
+                  <p>El e-learning han cambiado la manera como nos educamos, nuestra plataforma esta inspirada en Coursera y Standford Online donde hemos tenido la suerte de tambien capacitarnos.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_6">Ut enem magana sed dolore</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_6">Adios pulpin, Hola a todos!</a>
                 </h5>
               </div>
               <div id="accordion1_6" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation dolore magna ullamco.</p>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco sed eiusmod tempor ut labore et dolore.</p>
+                  <p>En una empresa si todos progresan entonces la empresa tambien lo hara, creemos que es lo mismo en una sociedad. Hasta ahora no se ha podido romper el mito del "derecho de piso" para los profesionales que tienen poca experiencia. Luego de mucho tiempo y dinero invertido, un empresario por fin tendra el equipo de personas que haran que todo mejore, es alli donde una empresa empieza a destacar.</p>
+                  <p>Pero la gran mayoria de empresas no lo consiguen y tienen que hacer algo para sobrevivir, ese algo empieza por abusar de sus empleados, este es el derecho de piso que es ILEGAL, pero eso no es lo peor, lo peor es que ese derecho de piso alimenta el ciclo.</p>
+                  <p> Un profesional explotado quizas sea un lider explotador.</p>
                 </div>
               </div>
             </div>
@@ -556,6 +557,7 @@
           <h2>Nosotros</h2>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam sit nonummy nibh euismod tincidunt ut laoreet dolore magna aliquarm erat sit volutpat. Nostrud exerci tation ullamcorper suscipit lobortis nisl aliquip  commodo consequat. </p>
           <p>Duis autem vel eum iriure dolor vulputate velit esse molestie at dolore.</p>
+          <a href="http://info.flagcounter.com/WDY8"><img src="http://s01.flagcounter.com/count/WDY8/bg_313030/txt_B0B0B0/border_313030/columns_5/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/" alt="Flag Counter" border="0"></a>
         </div>
         <!-- END BOTTOM ABOUT BLOCK -->
         <!-- BEGIN TWITTER BLOCK --> 
@@ -568,10 +570,10 @@
           <!-- BEGIN BOTTOM CONTACTS -->
           <h2>Contacto</h2>
           <address class="margin-bottom-20">
-            35, Lorem Lis Street, Park Ave<br>
-            Lima, PE<br>
-            Phone: 300 323 3456<br>
-            Fax: 300 323 1456<br>
+            Av. Gregorio Escobedo 558 Dpto 1004<br>
+            Jesus Maria, Lima, PE<br>
+            Phone: (51) 949 546 515<br>
+            Fax: (51) 949 546 515<br>
             Email: <a href="mailto:contacto@simularte.com">contacto@simularte.com</a><br>
             Skype: <a href="skype:simularte">simularte</a>
           </address>
@@ -598,7 +600,7 @@
       <div class="row">
         <!-- BEGIN COPYRIGHT -->
         <div class="col-md-6 col-sm-6">
-          <div class="copyright">2015 © aTrabajar.pe ALL Rights Reserved.</div>
+          <div class="copyright">2015 © ATRABAJAR.PE ALL Rights Reserved.</div>
         </div>
         <!-- END COPYRIGHT -->
         <!-- BEGIN SOCIAL ICONS -->
