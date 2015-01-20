@@ -230,13 +230,13 @@
       <div class="row">
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-heart"></i>
-          <h3>Encuentra y Decide</h3>
-          <p>Buscador inteligente de Profesionales, <br>Mentores y Empresas</p>
+          <h3>Encuentra y decide</h3>
+          <p>Buscador inteligente de profesionales, <br>mentores y empresas</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-signal"></i>
           <h3>Optimiza tu tiempo</h3>
-          <p>Gestión de la Capacitación y Desarrollo<br> online</p>
+          <p>Gestión de la capacitación y desarrollo<br> online</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-rocket"></i>
@@ -264,7 +264,7 @@
   <div class="team-block content content-center margin-bottom-40" id="team">
     <div class="container">
       <h2>El <strong>equipo</strong></h2>
-      <h4>Ninguno de nosotros vale mas que todos juntos</h4>
+      <h4>Ninguno de nosotros vale más que todos juntos</h4>
       <div class="row">
         <div class="col-md-4 item">
           <img src="assets/frontend/onepage/img/people/img6-large.jpg" alt="Marcus Doe" class="img-responsive">
@@ -309,7 +309,7 @@
   <div class="choose-us-block content text-center margin-bottom-40" id="benefits">
     <div class="container">
       <h2>Por qué <strong>elegirnos</strong></h2>
-      <h4>Somos el puente, <a href="javascript:void(0);">que unirá</a> a los recién egresados o profesionales juniors <br> con un trabajo profesional para desterrar el derecho de piso.</h4>
+      <h4>Somos el puente <a href="javascript:void(0);">que unirá</a> a los recién egresados o profesionales juniors <br> con un trabajo profesional, para desterrar el derecho de piso.</h4>
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12 text-left">
           <img src="assets/frontend/onepage/img/choose-us.png" alt="Why to choose us" class="img-responsive">
@@ -319,13 +319,13 @@
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">Encuentra y Decide</a>
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">Encuentra y decide</a>
                 </h5>
               </div>
               <div id="accordion1_1" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p>Registrate gratis como un Profesional, Mentor o Empresario, luego te sugeriremos las mejores opciones segun lo que buscas, y asi podras decidir mejor donde y con quien capacitarte para entrar a trabajar. Nosotros te apoyararemos en todo este proceso.</p>
-                  <p>Somos un ecosistema laboral al hacer trabajar en equipo a los Profesionales, Mentores y Empresarios para mejora de todos, con un sistema que se autoalimenta y aprende de nuestras interacciones y necesidades.</p>
+                  <p>Regístrate gratis como un Profesional, Mentor o Empresario; luego te sugeriremos las mejores opciones según lo que buscas. Así podrás decidir mejor dónde y con quién capacitarte para entrar a trabajar. Nosotros te apoyararemos en todo este proceso.</p>
+                  <p>Somos un ecosistema laboral que hace trabajar en equipo a los Profesionales, Mentores y Empresarios para mejora de todos, con un sistema que se autoalimenta y aprende de nuestras interacciones y necesidades.</p>
                 </div>
               </div>
             </div>
@@ -337,8 +337,8 @@
               </div>
               <div id="accordion1_2" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Podras llevar todo el proceso en nuestro portal, de una manera simple y mas productiva podras ver el progreso de tus proyectos, revisar tus estadisticas o las invitaciones a capacitacion para trabajo, subir archivos, comentar, etc.</p>
-                  <p>Nuestro sistema tiene como meta que hagas mas en menos tiempo.</p>
+                  <p>Podrás llevar todo el proceso en nuestro portal. De una manera simple y más productiva, podrás ver el progreso de tus proyectos, revisar tus estadísticas o las invitaciones a capacitación para trabajo, subir archivos, comentar, etc.</p>
+                  <p>Nuestro sistema tiene como meta que hagas más en menos tiempo.</p>
                 </div>
               </div>
             </div>
@@ -350,8 +350,8 @@
               </div>
               <div id="accordion1_3" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Alguna vez te preguntaste cuanto tributarias a fin de año, o cuales son los beneficios que tienes al entrar a un trabajo formal. Tener las reglas bien claras en el ambito economico y legal es tan importante como en tu especalidad.</p>
-                  <p>Tu mismo podras simular cuanto tributar segun tu sueldo y sabras con nuesteo asesor legal virtual cuales son tus deberes/derecho de ley. El conocmiento nos benefica a todos los Empresarios, Mentores y Profesioanles.</p>
+                  <p>Alguna vez te preguntaste cuánto tributarías a fin de año o cuáles son los beneficios que tienes al entrar a un trabajo formal. Tener las reglas bien claras en el ámbito económico y legal es tan importante como en tu especialidad.</p>
+                  <p>Tú mismo podrás simular cuánto tributar según tu sueldo y sabrás con nuesteo asesor legal virtual cuáles son tus deberes y derechos de ley. El conocmiento nos benefia a todos: Empresarios, Mentores y Profesionales.</p>
                 </div>
               </div>
             </div>
@@ -363,35 +363,35 @@
               </div>
               <div id="accordion1_4" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Las buenas y malas experiencias laborales de los demas podran ser compartidas en nuestra sistema y cada uno podra poner su granito de arena para crecer juntos.</p>
-                  <p>Tu decides que compartir y con quienes, las posibilidades son infinitas en nuestra comunidad libre.</p>
+                  <p>Las buenas y malas experiencias laborales de los demás podrán ser compartidas en nuestra sistema y cada uno podrá poner su granito de arena para crecer juntos.</p>
+                  <p>Tú decides qué compartir y con quiénes. Las posibilidades son infinitas en nuestra comunidad libre.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_5">Capacitacion Online</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_5">Capacitación online</a>
                 </h5>
               </div>
               <div id="accordion1_5" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Mucho de lo que aprendemos no lo aprendemos necesariamente en una reunion fisica, con nostros tendras la posibilidad de capacitarte online con los mentores, y los empresarios podran llevar un control sobre como va la capacitacion.</p>
-                  <p>El e-learning han cambiado la manera como nos educamos, nuestra plataforma esta inspirada en Coursera y Standford Online donde hemos tenido la suerte de tambien capacitarnos.</p>
+                  <p>Mucho de lo que aprendemos no lo hacemos necesariamente en una reunión física. Con nostros tendrás la posibilidad de capacitarte online con los Mentores, y los empresarios podrán llevar un control sobre cómo va la capacitación.</p>
+                  <p>El e-learning ha cambiado la manera cómo nos educamos. Nuestra plataforma está inspirada en Coursera y Standford Online, donde hemos tenido la suerte de también capacitarnos.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h5 class="panel-title">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_6">Adios pulpin, Hola a todos!</a>
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_6">¡Adiós, Pulpín! ¡Bienvenidos todos!</a>
                 </h5>
               </div>
               <div id="accordion1_6" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>En una empresa si todos progresan entonces la empresa tambien lo hara, creemos que es lo mismo en una sociedad. Hasta ahora no se ha podido romper el mito del "derecho de piso" para los profesionales que tienen poca experiencia. Luego de mucho tiempo y dinero invertido, un empresario por fin tendra el equipo de personas que haran que todo mejore, es alli donde una empresa empieza a destacar.</p>
-                  <p>Pero la gran mayoria de empresas no lo consiguen y tienen que hacer algo para sobrevivir, ese algo empieza por abusar de sus empleados, este es el derecho de piso que es ILEGAL, pero eso no es lo peor, lo peor es que ese derecho de piso alimenta el ciclo.</p>
-                  <p> Un profesional explotado quizas sea un lider explotador.</p>
+                  <p>En una empresa, si todos progresan, entonces la empresa también lo hara. Creemos que es lo mismo en una sociedad. Hasta ahora no se ha podido romper el mito del "derecho de piso" para los profesionales que tienen poca experiencia. Luego de mucho tiempo y dinero invertido, un empresario por fin tendrá el equipo de personas que hará que todo mejore. Es allí donde una empresa empieza a destacar.</p>
+                  <p>Pero la gran mayoria de empresas no lo consiguen y tienen que hacer algo para sobrevivir. Ese algo empieza por abusar de sus empleados, este es el derecho de piso que es ILEGAL, pero eso no es lo peor, lo peor es que ese derecho de piso alimenta el ciclo.</p>
+                  <p> Un profesional explotado quizás sea un líder explotador.</p>
                 </div>
               </div>
             </div>
