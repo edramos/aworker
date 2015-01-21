@@ -231,7 +231,7 @@
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-heart"></i>
           <h3>Encuentra y decide</h3>
-          <p>Buscador inteligente de profesionales, <br>mentores y empresas</p>
+          <p>Buscador inteligente de Profesionales, <br>Mentores y Empresas</p>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-signal"></i>
@@ -246,7 +246,7 @@
         <div class="col-md-3 col-sm-3 col-xs-12 item">
           <i class="fa fa-tablet"></i>
           <h3>Compartir haciendo</h3>
-          <p>Somos una <b>SaaS</b> laboral. <br> Redes, blogs en tu casa o móvil</p>
+          <p>Somos una <b>SaaS</b> laboral: <br> redes, blogs en tu casa o móvil</p>
         </div>
       </div>
     </div>
@@ -255,7 +255,7 @@
   <!-- Message block BEGIN -->
   <div class="message-block content content-center valign-center" id="message-block">
     <div class="valign-center-elem">
-      <h2>No es solo conseguir un trabajo, <strong>es sentirte orgulloso de eso</strong></h2>
+      <h2>No es solo conseguir un trabajo, <strong>es sentirte orgulloso de eso.</strong></h2>
       <em>aTrabajar.pe</em>
     </div>
   </div>
@@ -350,8 +350,8 @@
               </div>
               <div id="accordion1_3" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Alguna vez te preguntaste cuánto tributarías a fin de año o cuáles son los beneficios que tienes al entrar a un trabajo formal. Tener las reglas bien claras en el ámbito económico y legal es tan importante como en tu especialidad.</p>
-                  <p>Tú mismo podrás simular cuánto tributar según tu sueldo y sabrás con nuesteo asesor legal virtual cuáles son tus deberes y derechos de ley. El conocmiento nos benefia a todos: Empresarios, Mentores y Profesionales.</p>
+                  <p>¿Alguna vez te preguntaste cuánto tributarías a fin de año o cuáles son los beneficios que tienes al entrar a un trabajo formal? Tener las reglas bien claras en el ámbito económico y legal es tan importante como en tu especialidad.</p>
+                  <p>Tú mismo podrás simular cuánto tributar según tu sueldo y saber, con nuestro asesor legal virtual, cuáles son tus deberes y derechos de ley. El conocmiento nos beneficia a todos: Empresarios, Mentores y Profesionales.</p>
                 </div>
               </div>
             </div>
@@ -376,8 +376,8 @@
               </div>
               <div id="accordion1_5" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Mucho de lo que aprendemos no lo hacemos necesariamente en una reunión física. Con nostros tendrás la posibilidad de capacitarte online con los Mentores, y los empresarios podrán llevar un control sobre cómo va la capacitación.</p>
-                  <p>El e-learning ha cambiado la manera cómo nos educamos. Nuestra plataforma está inspirada en Coursera y Standford Online, donde hemos tenido la suerte de también capacitarnos.</p>
+                  <p>Mucho de lo que aprendemos no lo hacemos necesariamente en una reunión presencial. Con nostros tendrás la posibilidad de capacitarte online con los Mentores, y los empresarios podrán llevar un control sobre cómo va tu capacitación.</p>
+                  <p>El e-learning ha cambiado la manera cómo nos educamos. Nuestra plataforma está inspirada en Coursera y Standford Online, donde hemos tenido la suerte de capacitarnos.</p>
                 </div>
               </div>
             </div>
@@ -389,8 +389,9 @@
               </div>
               <div id="accordion1_6" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>En una empresa, si todos progresan, entonces la empresa también lo hara. Creemos que es lo mismo en una sociedad. Hasta ahora no se ha podido romper el mito del "derecho de piso" para los profesionales que tienen poca experiencia. Luego de mucho tiempo y dinero invertido, un empresario por fin tendrá el equipo de personas que hará que todo mejore. Es allí donde una empresa empieza a destacar.</p>
-                  <p>Pero la gran mayoria de empresas no lo consiguen y tienen que hacer algo para sobrevivir. Ese algo empieza por abusar de sus empleados, este es el derecho de piso que es ILEGAL, pero eso no es lo peor, lo peor es que ese derecho de piso alimenta el ciclo.</p>
+                  <p>En una empresa, si todos progresan, esta también lo hará. Creemos que sucede lo mismo en una sociedad.</p>
+				  <p>Hasta ahora no se ha podido romper el mito del "derecho de piso" para los profesionales que tienen poca experiencia. Además, las empresas ya han invertido mucho tiempo y dinero para conseguir a su personal estrella. Ahora, por fin un empresario tendrá el equipo de personas que hará que todo mejore. Ahí es donde una empresa empieza a destacar.</p>
+                  <p>Sin embargo, la gran mayoría de empresas no lo consiguen y tienen que hacer algo para sobrevivir. Ese algo empieza por abusar de sus empleados. Este es el derecho de piso, que además es ILEGAL. Pero lo peor de esta situación es que ese derecho de piso alimenta el ciclo.</p>
                   <p> Un profesional explotado quizás sea un líder explotador.</p>
                 </div>
               </div>
